@@ -62,32 +62,35 @@ The dataset captures transactional details for pizza orders, such as pricing, qu
 - *Total Revenue:* $8,500  
 - *Total Orders:* 214  
 - *Average Order Value:* $39.70  
-- *Best-Selling Pizza:* Pepperoni Pizza (Medium)  
+- *top-Selling Pizzas:*
+   - Pepperoni Pizza (Medium)
+   - Margarita Pizza (Large)
+   - Supreme Pizza (Medium) 
 - *Top Category:* Classic Pizzas  
 - *Most Popular Size:* Medium  
 - *Peak Ordering Period:* Between 6 PM and 9 PM  
-- *Underperforming Pizza:* Brie Carre Pizza (Small) had consistently low sales
-
+- *Underperforming Pizza:* that had consistently low sales
+   -  Brie Carre Pizza (Small)
+   -  Veggie Delight Pizza (Meduim)
+ 
 ### *Conclusions:*
-- The restaurant relies heavily on top-performing items like Pepperoni Pizza.
-- Medium-sized pizzas are the most preferred by customers.
-- Classic pizzas dominate customer preferences.
-- Evening hours drive the most traffic and sales.
-- Some pizzas, especially in the Veggie and less popular categories, underperform.
+- *Top Performers:* The Pepperoni Pizza (Medium) has been the primary driver of sales, with Margarita Pizza (Large) and Supreme Pizza (Medium) also performing strongly. These three pizzas represent the bulk of the sales.
+- *Customer Preferences:* Medium-sized pizzas are the most popular among customers, with a clear preference for classic pizzas over other categories.
+- *Peak Sales Period:* Sales peak between 6 PM and 9 PM, making it essential to have adequate staffing and inventory during these hours to meet demand.
+- *Underperforming Products:* Items such as Brie Carre Pizza (Small) and Veggie Delight Pizza (Medium) have consistently underperformed, suggesting a need for review or repositioning.
 
 ### *Recommendations:*
-- *Menu Optimization:* Reevaluate low-performing items like Brie Carre Pizza. Consider replacing or promoting them through special offers.
-- *Upsell Strategy:* Introduce combo deals during peak evening hours to boost average order value.
-- *Marketing Opportunities:* Focus promotions on underperforming categories like Veggie to balance sales across offerings.
-- *Operational Planning:* Align staff shifts and inventory restocking with the 6 PM – 9 PM peak demand period.
-- *Product Innovation:* Explore customer feedback and introduce new variants in the Classic category to build on what already works.
-
+- *Menu Optimization:* Consider reevaluating low-performing pizzas such as Brie Carre Pizza and Veggie Delight Pizza. These items could be replaced, promoted with special offers, or reworked based on customer feedback.
+- *Operational Adjustments:* Align staff shifts and inventory with the peak demand period of 6 PM – 9 PM to ensure maximum efficiency and customer satisfaction during high-volume hours.
+- *Marketing Strategy:* Promote underperforming categories like Veggie pizzas through targeted marketing campaigns, special discounts, or limited-time offers to generate interest and boost sales.
+- *Upsell Opportunities:* Develop combo deals for evening orders to increase the average order value and attract more customers during peak times.
+- *Product Innovation:* Explore new variants within the Classic category, taking into account customer preferences, and introduce them to drive more sales in this popular segment.
 ---
 
 ## Files Included
-- Capstone_Pizza_Sales_Jan2025.xlsx – Raw pizza sales dataset  
-- Capstone_Pizza_Dashboard_Jan2025.pbix – Power BI dashboard file  
-- Dashboard_Screenshot.png – Dashboard preview image  
+- Raw pizza sales dataset (https://github.com/Crystabel-Isioma/Capstone-Pizza-January-Report/blob/main/Capstone%20Pizza%20sales%20jan%202025.xlsx)  
+- Power BI dashboard file (https://github.com/Crystabel-Isioma/Capstone-Pizza-January-Report/blob/main/capstone_pizza_dashboad_jan2025.pbix) 
+- Dashboard preview image (https://github.com/Crystabel-Isioma/Capstone-Pizza-January-Report/blob/main/Screenshot%202025-04-08%20184116.png)
 
 ---
 
@@ -95,4 +98,4 @@ The dataset captures transactional details for pizza orders, such as pricing, qu
 *Isioma-Obiasili E. Crystabel*  
 - [GitHub Portfolio](https://github.com/crystabel-isioma)  
 - Email: crystabelisiomaobiasili@gmail.com  
-- Phone: 0803 362 7338
+  
