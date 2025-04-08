@@ -1,9 +1,10 @@
-# Capstone-Pizza-January-Report
+# Capstone Pizza January Sales Report
 
 This project is a Power BI dashboard built to analyze the sales performance of a hypothetical pizza restaurant using January 2025 sales data showcasing various KPIs and insights for business decisions, including customer preferences, revenue trends, and operational performance.
 
 ## Dashboard Preview
-![Dashboard Screenshot]([Dashboard_Screenshot.png](https://github.com/Crystabel-Isioma/Capstone-Pizza-January-Report/blob/main/Screenshot%202025-04-08%20184116.png))
+![Dashboard Screenshot](![Screenshot 2025-04-08 184116](https://github.com/user-attachments/assets/5ede324a-c6dd-4ae8-b8ff-fda1210bd315)_
+
 
 ## Tools Used
 - *Microsoft Power BI*
